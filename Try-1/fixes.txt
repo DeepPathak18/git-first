@@ -1,2 +1,5 @@
 I am Fix file which will be used to fix value
 Now one Bug detected
+2nd Bug detected
+3rd Bug detected
+4th Bug detected
